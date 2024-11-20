@@ -6,3 +6,4 @@ streamlit
 scikit-learn
 xgboost
 lightgbm
+plotly
